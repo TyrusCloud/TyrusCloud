@@ -1,6 +1,5 @@
 <h1>Hi, I'm Tyrus! <br/></h1>
 
-<h2>👨‍💻 Cloud Projects:</h2>
 
 - Coming Soon
 <h2>Certifications</h2>
