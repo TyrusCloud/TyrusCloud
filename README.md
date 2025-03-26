@@ -2,11 +2,10 @@
 
 <h2>👨‍💻 Cloud Projects:</h2>
 
-- Active Directory Home Lab(https://www.github.com/TyrusCloud/URL)
-
+- Coming Soon
 <h2>Certifications</h2>
 
-- AZ-104
+- Coming Soon
 
 <h2> 🤳 Connect with me:</h2>
 
