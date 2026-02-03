@@ -1,4 +1,4 @@
-# Tyrus Bradley
+# Hi, Im Tyrus
 
 🛡️ SOC Analyst | ☁️ Cloud Security (In Progress)  
 🔐 Active DoD Secret Clearance  
