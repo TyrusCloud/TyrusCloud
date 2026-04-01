@@ -1,6 +1,6 @@
 # Hi, Im Tyrus
 
-🛡️ IAM | ☁️ Cloud Security Engineer
+🛡️ IAM | ☁️ Cloud Administrator 
 🔐 Active DoD Secret Clearance  
 📜 CompTIA Security+
 
@@ -8,11 +8,9 @@
 
 ## About Me
 
-I am an **Identity & Access Management (IAM) and Cloud Security Engineer** with an **active Secret Clearance** and **CompTIA Security+** certification. I specialize in **Azure cloud environments**, **Entra ID / Active Directory**, and **Infrastructure as Code with Terraform**, focusing on **secure, compliant, and scalable cloud solutions** for **government and DoD workloads**.  
+I am Cloud Administrator with hands-on experience deploying and securing Microsoft Azure environments using Terraform and Active Directory.  
 
-I enjoy building hands-on labs, automating deployments, and applying **NIST and FedRAMP standards** to ensure cloud security and proper access management.  
-
-I’m passionate about leveraging cloud technology to **strengthen security posture** and **enable secure access** in critical government systems. 
+I focus on building real-world cloud infrastructure that reflects enterprise and government environments, with an emphasis on identity management, networking, and security.  
 
 ---
 
@@ -28,31 +26,24 @@ I’m passionate about leveraging cloud technology to **strengthen security post
 
 ## 📂 Projects & Labs
 
-### 1. Secure Azure Environment (Terraform Lab)
-- Built a **3-tier Azure architecture** with private subnets, VNets, and NSGs  
-- Configured **Bastion host** for secure VM access  
-- Implemented **RBAC & least-privilege policies** in Azure AD / Entra ID  
-- Automated deployments with **Terraform** and GitHub  
+### 1. Azure IAM Lab (3-Part Series)
+Built a complete Active Directory environment in Azure, including a domain controller, domain-joined client machine, and user authentication testing.
 
-### 2. IAM & Cloud Security Lab
-- Managed **user identities and access roles** in Azure / AD  
-- Applied **MFA and security best practices** for identity protection  
-- Ensured compliance with **NIST & FedRAMP standards**  
-
+### 2. Terraform Azure Infrastructure Deployment
+Provisioned secure cloud infrastructure using Terraform, including networking, compute, and access control configurations.
 *(More projects coming soon!)*
 
 ---
 
 ## 🎯 Goals
 
-- Land a **Government / DoD IAM Engineer or Cloud Security role**  
-- Expand expertise in **secure cloud architecture and automation**  
-- Contribute to **open-source security and cloud projects**  
+- Preparing for Microsoft Azure Administrator (AZ-104)  
+- Expanding cloud security and IAM knowledge 
+- Building more real-world Azure projects
 
 ---
 
 ## 📫 Connect with Me
 
 - LinkedIn: [www.linkedin.com/in/cloudtyrus]  
-- GitHub: [https://github.com/tyruscloud](https://github.com/tyruscloud)  
 
